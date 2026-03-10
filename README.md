@@ -17,7 +17,7 @@ Ideal para revisar listas, identificadores, registros o cualquier conjunto de l�
 
 ## 🔍 **Demostración**
 
-> *(Añade aquí capturas de tu interfaz si quieres)*
+assets/screenshot1.png
 
 Ejemplo:
 
