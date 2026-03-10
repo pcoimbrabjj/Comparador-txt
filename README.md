@@ -17,7 +17,8 @@ Ideal para revisar listas, identificadores, registros o cualquier conjunto de l�
 
 ## 🔍 **Demostración**
 
-assets/screenshot1.png
+<img width="685" height="638" alt="screenshot1" src="https://github.com/user-attachments/assets/92ae7644-b80e-4906-8a50-2d058c133096" />
+
 
 Ejemplo:
 
