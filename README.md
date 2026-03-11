@@ -22,12 +22,6 @@ Ideal para comparar listas, identificadores, registros o cualquier conjunto de l
 
 ## 🔍 **Demostración**
 
-<<<<<<< HEAD
-https://github.com/user-attachments/assets/92ae7644-b80e-4906-8a50-2d058c133096
-=======
-<img width="685" height="638" alt="screenshot1" src="https://github.com/user-attachments/assets/92ae7644-b80e-4906-8a50-2d058c133096" />
-
->>>>>>> f87b7f84bac64061d3db278bc2bc88bbaa1a59de
 
 Ejemplo:
 
@@ -36,7 +30,6 @@ Ejemplo:
 📁 Archivo 2: lista_B.txt
 
 Resultado → diferencias.txt
-<<<<<<< HEAD
 ```
 
 ---
@@ -55,7 +48,6 @@ Perfect for comparing lists, identifiers, records, or any set of text lines.
 
 ## 🔍 **Demo**
 
-https://github.com/user-attachments/assets/92ae7644-b80e-4906-8a50-2d058c133096
 
 Example:
 
@@ -67,6 +59,3 @@ Output → diferencias.txt
 ```
 
 ---
-=======
-``
->>>>>>> f87b7f84bac64061d3db278bc2bc88bbaa1a59de
