@@ -21,6 +21,7 @@ Ideal para comparar listas, identificadores, registros o cualquier conjunto de l
 ---
 
 ## 🔍 **Demostración**
+<img width="685" height="638" alt="screenshot1" src="https://github.com/user-attachments/assets/03ae4e39-428c-43f9-9edc-dfef76bde62e" />
 
 
 Ejemplo:
@@ -47,6 +48,7 @@ Perfect for comparing lists, identifiers, records, or any set of text lines.
 ---
 
 ## 🔍 **Demo**
+<img width="685" height="638" alt="screenshot1" src="https://github.com/user-attachments/assets/638d7124-cbe5-4fc8-a7a7-3bb25b836505" />
 
 
 Example:
